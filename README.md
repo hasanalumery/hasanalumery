@@ -32,8 +32,8 @@ Alumery </h1>
 
 ### 📌 Featured Projects
 
-- 🖥️ **[Portfolio – hasanalumery.nl](https://hasanalumery.nl)**  
-  A sleek, modern personal site showcasing my work, skills, and experience as a developer.
+- 🖥️ **[SocialX – SocialMedia Clone ([https://hasanalumery.nl](http://socialmedia.hasanalumery.nl/))**  
+  A sleek, modern socialmedia site for you to tell about your day..
 
 - 🛒 **[Webshop](http://webshop.hasanalumery.nl/index.html)**  
  A modern webshop template with an bootstap styled site. 
