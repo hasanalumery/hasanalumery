@@ -32,7 +32,7 @@ Alumery </h1>
 
 ### 📌 Featured Projects
 
-- 🖥️ **[SocialX – SocialMedia Clone ([https://hasanalumery.nl](http://socialmedia.hasanalumery.nl/))**  
+- 🖥️ **[SocialX – SocialMedia Clone (http://socialmedia.hasanalumery.nl/)**  
   A sleek, modern socialmedia site for you to tell about your day..
 
 - 🛒 **[Webshop](http://webshop.hasanalumery.nl/index.html)**  
